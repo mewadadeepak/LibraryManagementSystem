@@ -1,0 +1,8 @@
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
